@@ -25,6 +25,7 @@ To write a Python program that demonstrates **operator overloading** by overload
 ---
 
 ## 💻 Program
+```
 class A:
     def __init__(self, a):
         self.a = a
@@ -38,6 +39,6 @@ ob2 = A(20)
 print(ob1 < ob2)
 ## Output
 <img width="823" height="100" alt="image" src="https://github.com/user-attachments/assets/9dceda49-de7b-4cc8-b9f5-e45101352b62" />
-
+```
 ## Result
 program has been successfully completed
